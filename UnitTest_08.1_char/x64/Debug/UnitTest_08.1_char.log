@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest_08.1_char.cpp
+C:\Users\VITUK\source\repos\lab_08.1_char\lab_08.1_char\lab_08.1_char.cpp(11,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest_08.1_char.cpp')
+  
+C:\Users\VITUK\source\repos\lab_08.1_char\lab_08.1_char\lab_08.1_char.cpp(24,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest_08.1_char.cpp')
+  
+     Creating library C:\Users\VITUK\source\repos\lab_08.1_char\x64\Debug\UnitTest_08.1_char.lib and object C:\Users\VITUK\source\repos\lab_08.1_char\x64\Debug\UnitTest_08.1_char.exp
+  UnitTest_08.1_char.vcxproj -> C:\Users\VITUK\source\repos\lab_08.1_char\x64\Debug\UnitTest_08.1_char.dll
